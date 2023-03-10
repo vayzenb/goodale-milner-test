@@ -1,7 +1,7 @@
 """
 Dataloader which loads images without a folder or label
 """
-
+#added dummy
 import os
 import torch
 from torch.utils.data import Dataset, DataLoader
