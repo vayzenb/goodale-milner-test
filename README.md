@@ -1,2 +1,2 @@
-# ml
-a general repo for machine learning related scripts
+# goodale-milner-test
+Testing whether CNN can identify goodale-milner-objects
