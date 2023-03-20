@@ -1,0 +1,3 @@
+[submodule "DeepDive"]
+	path = DeepDive
+	url = https://github.com/nblauch/DeepDive.git
